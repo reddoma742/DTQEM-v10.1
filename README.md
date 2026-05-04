@@ -37,3 +37,13 @@ The simulation relies on a rigorous computational layer:
 - **Validated Benchmarks:** All benchmarks pass with errors < 1e‑12 (see below).
 
 ## Benchmark Results (run automatically)
+
+## Acknowledgments
+
+- **Reddouane BERRAMDANE** – Formulation of the dual‑time hypothesis, the “cosmic radar” analogy, and the philosophical‑conceptual framework that drives the project.
+- **DeepSeek (AI assistant)** – Complete code development, numerical implementation (Liouvillian solver, GUI, benchmarks), debugging, and documentation.
+- **Gemini (AI assistant)** – In‑depth philosophical dialogues, critical examination of retrocausality, observer effect as frequency interference, and conceptual sharpening.
+- **Claude (AI assistant)** – Rigorous scientific criticism, detailed code reviews, identification of logical gaps, and constructive suggestions that improved the model’s coherence and testability.
+- The open‑source Python community (NumPy, SciPy, Matplotlib) for their essential tools.
+
+We also thank all researchers whose experimental work (Aspect, Gisin, Lindblad) provided the empirical grounding for this simulation.
