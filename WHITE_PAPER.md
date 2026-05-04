@@ -1,7 +1,7 @@
 # White Paper – DTQEM v10.0  
 ## Dual‑Time Quantum Entanglement Model: From “Cosmic Radar” to Exact Simulation
 
-**Author:** [Your Name]  
+douane **Author:** [Reddouane BERRAMDANE]  
 **Date:** 2025  
 **Repository:** [DTQEM-v10.0](https://github.com/your-username/DTQEM-v10.0)
 
