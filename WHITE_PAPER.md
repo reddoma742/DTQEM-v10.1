@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20024264.svg)](https://doi.org/10.5281/zenodo.20024264)
+
+
 # White Paper – DTQEM v10.0  
 ## Dual‑Time Quantum Entanglement Model: From “Cosmic Radar” to Exact Simulation
 
