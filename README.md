@@ -1,3 +1,9 @@
+
+markdown
+![Berramdane Model Result](images/DTQEM v10.1.jpg)
+
+
+
 # DTQEM-v10.1
 DTQEM v10.1 simulates quantum entanglement with a negative imaginary time component. Calibrated to experimental bounds, it models decoherence, double-slit interference, and entanglement measures (visibility, concurrence, negativity) via exact Liouvillian dynamics. Interactive Python GUI.
 # DTQEM v10.0 – Dual‑Time Quantum Entanglement Model
