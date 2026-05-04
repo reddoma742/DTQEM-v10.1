@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20024264.svg)](https://doi.org/10.5281/zenodo.20024264)
+
 # DTQEM v10.1 – Dual-Time Quantum Entanglement Model
 
 ![DTQEM v10.1 Result](images/DTQEM_v10.1.jpg)
