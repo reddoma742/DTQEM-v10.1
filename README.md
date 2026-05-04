@@ -1,6 +1,6 @@
 
 markdown
-![Berramdane Model Result](images/DTQEM v10.1.jpg)
+![Berramdane Model Result](images/DTQEM_v10.1.jpg)
 
 
 
